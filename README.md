@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jerem-uzoma
 - 👀 I’m a passionate in DevSecOps Engineer.
 - 🌱 I’m currently learning MLOps.
-- 🫣 My projects are mostly on Gitlab and Bitbucket so please ignore my activity logs here.
 - 💞️ I’m looking to collaborate on DevOps and Cloud solutions
 - 📫 How to reach me (email: odirajerem@gmail.com)
 
